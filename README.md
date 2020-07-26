@@ -1,4 +1,4 @@
-# Deep-Learning---ia.deeplearning-Specialization
+# Deep-Learning-ia.deeplearning-Specialization
 
 In this repository, the projects completed for the first 3 courses integrated on the [Deep Learning Specialization offered by ia.deeplearning on Coursera](https://www.coursera.org/specializations/deep-learning) are made available, which comprises 5 courses in total. It was intended to have a more general introduction to the Deep Learning field being the remaining 2 courses more specialized ([Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) and [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)). 
 
