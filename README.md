@@ -1,7 +1,6 @@
 # Deep-Learning---ia.deeplearning-Specialization
 
-In this repository, are made available the projects completed for the 3 first courses integrated on the [Deep Learning Specialization offered by ia.deeplearning on Coursera]
-(https://www.coursera.org/specializations/deep-learning), which comprises 5 courses in total. It was intendent to have a more general introduction to the Deep Learning 
+In this repository, are made available the projects completed for the 3 first courses integrated on the [Deep Learning Specialization offered by ia.deeplearning on Coursera](https://www.coursera.org/specializations/deep-learning), which comprises 5 courses in total. It was intendent to have a more general introduction to the Deep Learning 
 field being the remaing 2 courses more specialized ([Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 and [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)). 
 
@@ -24,3 +23,8 @@ The completed courses included graded quizzes and guided projects (consisting of
 - Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
   - There is no Guided Project for this course, only including case study quizzes.
 
+# Certificates
+
+![title](img/course1.png)
+![title](img/course2.png)
+![title](img/course3.png)
